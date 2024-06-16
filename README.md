@@ -30,3 +30,7 @@ Welcome to the ATM Application! This console application simulates the basic fun
 Upon running the application, you'll be greeted with the main menu. Follow the on-screen prompts to navigate through the options:
 
 1. **Main Menu**:
+
+
+Video Link
+https://conestogac.zoom.us/rec/share/r2_YiGEonvH0icMSTO6bYCI4fibSg_62RoOcLGjMbFBpKYgR_3WK5-KaLdhKrL9o.V-rI9ICiTFkzIVFk
